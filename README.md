@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-dark.png">
-  <img src="assets/avatar-light.png" width="130" alt="Alejandro Tenorio">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-at-dark.png">
+  <img src="assets/avatar-at-light.png" width="130" alt="Alejandro Tenorio">
 </picture>
 
 <h1>Alejandro Tenorio</h1>
